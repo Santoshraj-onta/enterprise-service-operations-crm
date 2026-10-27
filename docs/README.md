@@ -1,5 +1,4 @@
 # Dataverse solution package
-
 This folder is reserved for solution-related documentation and source-control guidance.
 
 A real Dataverse solution ZIP cannot be generated solely from this repository: it must be exported from the Power Platform environment where the tables, forms, views, app, plug-in registrations, environment variables, and flows are configured.
